@@ -119,3 +119,33 @@
 .colorPoison{
     color: hotpink;
 }
+@media (max-width:970px){
+    .centerContent{
+        width:50%;
+    }
+}
+@media (max-width:780px){
+    .centerContent{
+        width:60%;
+    }
+}
+@media (max-width:650px){
+    .centerContent{
+        width:70%;
+    }
+}
+@media (max-width:550px){
+    .centerContent{
+        width:80%;
+    }
+}
+@media (max-width:485px){
+    .centerContent{
+        width:90%;
+    }
+}
+@media (max-width:430px){
+    .centerContent{
+        width:100%;
+    }
+}
